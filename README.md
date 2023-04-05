@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  - 👯 I’m looking to collaborate on **Software engineering**
- -  😄 Pronouns: **She/Her/Hers**
+ - 👯 I’m looking to collaborate on **Software engineering**
+ - 😄 Pronouns: **She/Her/Hers**
+ - 🌱 I’m currently learning **Software Engineering at The African Leadership University**
+ - ⚡ Fun fact: **I love watching movies**
+ 
 ### Social links
 
 [![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/winnyineza)
