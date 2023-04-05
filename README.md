@@ -1,5 +1,4 @@
-### Hi there 👋, 
-My name is Winny Didine Ineza
+### Hi there 👋, My name is Winny Didine Ineza
 
 <!--
 **winnyineza/winnyineza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ###  👯 I’m looking to collaborate on **Software engineering**
- ###   😄 Pronouns: **She/Her/Hers**
+  - 👯 I’m looking to collaborate on **Software engineering**
+ -  😄 Pronouns: **She/Her/Hers**
 ### Social links
 
 [![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/winnyineza)
