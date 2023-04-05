@@ -14,19 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋, my name is Pericles Adjovi
-
-
-### Welcome to my github page
-![Welcome to my github page ](images/github%20profile.gif)
-
-
-### Streak
-
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=winnyineza">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winnyineza" />
-</a>
-
 
 ### Social links
 
