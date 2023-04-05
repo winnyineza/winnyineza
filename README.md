@@ -1,4 +1,5 @@
-### Hi there 👋, My name is Winny Didine Ineza
+<h1 align="center">Hi 👋, I'm Winny Didine Ineza</h1>
+<h3 align="center">A Front-end Developer and Software Engineer from Rwanda.</h3>
 
 <!--
 **winnyineza/winnyineza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
